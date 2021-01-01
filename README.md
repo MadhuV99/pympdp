@@ -1,1 +1,1 @@
-"# Mastering Python Design patterns" 
+"# Mastering Python Design Patterns" 
